@@ -1,0 +1,60 @@
+body{
+    background-color: black;
+}
+
+.Post{
+    width: 450px;
+    margin: auto;
+    background-color: white;
+    height: 620px;
+    font-family: 'Roboto', sans-serif;
+}
+.upone  {
+  display: inline-block;
+  width: 9%;
+  text-align: center;
+}
+.uptwo{
+    display: inline-block;
+    width: 9%;
+    font-size: small;
+}
+.upthree{
+    display: inline-block;
+    width: 77%;
+    text-align: right;
+}
+img{
+    width: 100%;
+    height: 350px;
+}
+.down{
+    font-size: 30px;
+}
+.downone{
+    display: inline-block;
+    width: 5;
+    margin-left: 10px;
+}
+.downtwo{
+    display: inline-block;
+    width: 5%;
+    margin-left: 3px;
+}
+.downthree{
+    display: inline-block;
+    width: 5%;
+    margin-left: 10px;
+}
+.downfour{
+    display: inline-block;
+    text-align: right;
+    width: 70%;
+}
+
+.up{
+    font-size: 30px;
+}
+.one, .two{
+    margin-left: 10px;
+}
